@@ -1,3 +1,3 @@
 # README
 
-To practicer rails with.
+To practice rails with.
